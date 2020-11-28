@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What is the square root of 49?",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "4",
+        "12",
+        "9",
+		"7"
+      ]
+    },
+    {
+      "question": "Garampani sanctuary is located at?",
+      "correct_answer": "Assam",
+      "incorrect_answers": [
+        "Gujarat",
+        "Assam",
+        "Nagaland",
+		"Sikkim"
+      ]
+    },
+    {
+      "question": "For which of the following disciplines is Nobel Prize awarded?",
+      "correct_answer": "All of the above",
+      "incorrect_answers": [
+        "Physics and Chemistry",
+        "Physiology or Medicine",
+        "Literature, Peace and Economics",
+		"All of the above"
+      ]
+    },
+    {
+      "question": "Hitler party which came into power in 1933 is known as?",
+      "correct_answer": "Nazi Party",
+      "incorrect_answers": [
+        "Nazi Party",
+        "Labour Party",
+        "Ku-Klux-Klan",
+		"Democratic Party"
+      ]
+    },
+    {
+      "question": "	FFC stands for",
+      "correct_answer": "Film Finance Corporation",
+      "incorrect_answers": [
+        "Foreign Finance Corporation",
+        "Federation of Football Council",
+        "Film Finance Corporation",
+		"None of the above"
+      ]
+    }
+  ]
+}
